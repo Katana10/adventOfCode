@@ -6,7 +6,7 @@ longueur=0
 largeur=0
 hauteur=0
 #Ouverture du fichier
-fichier = open("D:\JEU créé\IA\Réflexions\AdventOfCode\data2.txt", "r+")
+fichier = open("path", "r+")
 ##Pour lire le fichier en entier
 # data = fichier.read()
 ##Pour lire un fichier ligne par ligne
