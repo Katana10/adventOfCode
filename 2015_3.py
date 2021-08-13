@@ -1,4 +1,4 @@
-fichier = open("D:\JEU créé\IA\Réflexions\AdventOfCode\data3.txt", "r+")
+fichier = open("path", "r+")
 data = fichier.read()
 fichier.close()
 x=0
