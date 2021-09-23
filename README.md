@@ -1,4 +1,4 @@
-Hi, welcome to my solution to answer at AdventOdCode's problem, for now all of this solution are in python..
+Hi, welcome to my solution to answer at AdventOdCode problem, for now all of this solutions are in python..
 
 Advent Of Code 2015 =>
 Repository: ../2015 
